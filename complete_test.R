@@ -1,0 +1,5 @@
+source("complete.R")
+complete("/media/soundarzozm/New Volume/Data Science/Datasets/rprog_data_specdata/specdata", 1)
+complete("/media/soundarzozm/New Volume/Data Science/Datasets/rprog_data_specdata/specdata", c(2, 4, 8, 10, 12))
+complete("/media/soundarzozm/New Volume/Data Science/Datasets/rprog_data_specdata/specdata", 30:25)
+complete("/media/soundarzozm/New Volume/Data Science/Datasets/rprog_data_specdata/specdata", 3)
