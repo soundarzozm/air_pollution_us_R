@@ -1,0 +1,5 @@
+print(R.version.string)
+source("pollutantmean.R")
+pollutantmean("/media/soundarzozm/New Volume/Data Science/Datasets/rprog_data_specdata/specdata", "sulfate", 1:10)
+pollutantmean("/media/soundarzozm/New Volume/Data Science/Datasets/rprog_data_specdata/specdata", "nitrate", 70:72)
+pollutantmean("/media/soundarzozm/New Volume/Data Science/Datasets/rprog_data_specdata/specdata", "nitrate", 23)
